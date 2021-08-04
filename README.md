@@ -2,5 +2,5 @@
 - 👀 I’m interested in technology, sport and self growth
 - 🌱 I’m currently learning Web And Mobile App Design And Development
 - 💞️ I’m looking to collaborate on future projetcs 
-- 👀 I am also Actively looking for a job/intership in sydney. My Specality includes Web and Mobile Development.
+- 👀 I am also Actively looking for a job/intership in Toronto. My Specality is Web and Mobile Development.
 - 📫 How to reach me at famaa190@gmail.com
