@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @tomtom145
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-tomtom145/tomtom145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in technology, sport and self growth
+- 🌱 I’m currently learning Web And Mobile App Design And Development
+- 💞️ I’m looking to collaborate on future projetcs 
+- 👀 I am also Actively looking for a job/intership in sydney. My Specality includes Web and Mobile Development.
+- 📫 How to reach me at famaa190@gmail.com
